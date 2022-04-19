@@ -1,0 +1,5 @@
+Naranja: Comprado
+Manzana: Comprado 
+Banana: Comprado
+Pera: Comprado
+Uva: Comprado
