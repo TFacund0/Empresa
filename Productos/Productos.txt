@@ -3,3 +3,4 @@ Manzana: Comprado
 Banana: Comprado
 Pera: Comprado
 Uva: Comprado
+Mandarina: Comprado
