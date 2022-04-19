@@ -4,3 +4,4 @@ Banana: Comprado
 Pera: Comprado
 Uva: Comprado
 Mandarina: Comprado
+Helado: Comprado
